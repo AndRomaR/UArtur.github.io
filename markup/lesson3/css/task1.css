@@ -1,0 +1,44 @@
+p:first-letter {
+    color: red;
+    font-weight:900;
+    font-size: 30px;
+}
+em {
+    background-color: green;
+    color: white;
+}
+h1, h2 {
+    color: orange;
+}
+    h1 {
+    text-align: right;
+}
+
+#warehouse h2{
+    color: blue;
+
+}
+.vegetables-list {
+    color: red;
+    font-weight: 900;
+}
+#allotment .fruits-list {
+    color: gray;
+    font-weight: 900;
+}
+#warehouse .fruits-list {
+    color: green;
+    font-weight: 900;
+}
+.students-table {
+    text-align: center;
+    font-weight: 900;
+}
+tbody td:first-child {
+    color: orange;
+    background-color: white;
+}
+tbody {
+    background-color: green;
+    color: white;
+}
